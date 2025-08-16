@@ -107,6 +107,6 @@ El dataset contiene información de ventas con las siguientes características:
 
 ---
 
-**Autor**: [Tu Nombre]  
-**Fecha**: [Fecha de inicio]  
+**Autor**: Astorga Hugo
+**Fecha**: 16/08/2025 
 **Versión**: 1.0.0
