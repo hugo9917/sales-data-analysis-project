@@ -1,0 +1,35 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.24.0
+
+# SQL and Database
+sqlalchemy>=1.4.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Jupyter and Notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Testing and Quality
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0  # Code formatting
+flake8>=5.0.0  # Linting
+
+# Logging and Utilities
+python-dotenv>=0.19.0
+
+# Data Processing
+openpyxl>=3.0.0  # Excel support
+xlrd>=2.0.0      # Excel reading
+
+# Optional: For advanced analytics
+scikit-learn>=1.1.0
+scipy>=1.9.0
+
+# Optional: For Power BI integration
+pyodbc>=4.0.0  # If connecting to SQL Server

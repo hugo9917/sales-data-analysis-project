@@ -1,0 +1,7 @@
+Sales Data Cleaning Log
+==============================
+Missing values cleaned: 5157 values
+Duplicates removed: 0 rows
+Memory optimized: 2.86 MB saved
+Date columns transformed: 1 columns
+Derived features created
